@@ -1,13 +1,13 @@
 ---
-title: "Thomas Rose"
+title: "Katzenvideo"
 about:
   id: template-area
   template: jolla
   image: profile.png
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: Youtube
+      text: Youtube
+      href: https://www.youtube.com/watch?v=ddbhQW2gMoQ&list=PLDHwW2pYdl9A4A2eMRSj1SBPcC-Zf_qZ7&index=3&ab_channel=ReinholdH%C3%BCsam
     - icon: github
       text: Github
       href: https://github.com
@@ -30,13 +30,12 @@ Here goes the information about you.
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Fahrenheitstr. 52  
-44879 Bochum  
-Germany  
+Joana
+Kaiserstraße
+60329
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone 004962541319
+E-Mail: joana142637@web.de
 
 ## Privacy
 
