@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Katze"
 about:
   id: template-area
   template: jolla
@@ -7,7 +7,7 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com
+      href: https://www.youtube.com/watch?v=ddbhQW2gMoQ&list=PLDHwW2pYdl9A4A2eMRSj1SBPcC-Zf_qZ7&index=3&ab_channel=ReinholdH%C3%BCsam
     - icon: github
       text: Github
       href: https://github.com
@@ -30,10 +30,9 @@ Here goes the information about you.
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Fahrenheitstr. 52  
-44879 Bochum  
-Germany  
+Joana
+Kaiserstraße 56
+
 
 Phone +49 1522 3176524  
 E-Mail: thomas.rose [at] daad-alumni.de
